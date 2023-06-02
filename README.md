@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FairyBear473
 - 👀 I’m interested in science and dance
-- 🌱 I’m currently learning python, but I prefer learning JAva
+- 🌱 Java and Python, basic object-oriented programming and neuronal networking
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me: not at all, please.
 
